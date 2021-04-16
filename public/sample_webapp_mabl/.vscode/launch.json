@@ -1,0 +1,47 @@
+// Use IntelliSense to learn about possible attributes.
+// Hover to view descriptions of existing attributes.
+// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Launch index.html",
+      "type": "chrome",
+      "request": "launch",
+      "port": 9258,
+      "webRoot": "${workspaceFolder}"
+    },
+    {
+      "name": "Launch Chrome localhost",
+      "type": "chrome",
+      "request": "launch",
+      "port": 9284,
+      "webRoot": "${workspaceFolder}",
+      "url": "http://localhost:8080/sample_webapp_mabl/business_001/index.html"
+    },
+    {
+      "name": "Launch Chrome localhost (1)",
+      "type": "chrome",
+      "request": "launch",
+      "port": 9244,
+      "webRoot": "${workspaceFolder}",
+      "url": "http://localhost:8080/sample_webapp_mabl/business_001/index.html"
+    },
+    {
+      "name": "Launch Chrome localhost (2)",
+      "type": "chrome",
+      "request": "launch",
+      "port": 9242,
+      "webRoot": "${workspaceFolder}",
+      "url": "http://localhost:80/sample_webapp_mabl/business_001/index.html"
+    },
+    {
+      "name": "Launch Chrome 127.0.0.1",
+      "type": "chrome",
+      "request": "launch",
+      "port": 9204,
+      "webRoot": "${workspaceFolder}",
+      "url": "http://127.0.0.1:52288/p/sample_webapp_mabl/WebContent/business_001/index.html?_cmAuth\u003drckmmccjic"
+    }
+  ]
+}
