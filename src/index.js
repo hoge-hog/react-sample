@@ -8,6 +8,7 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
+  <p>Reactの、GitHub Page公開テストです。</p>,
   document.getElementById('root')
 );
 
