@@ -5,10 +5,10 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-//  <React.StrictMode>
-//    <App />
-//  </React.StrictMode>,
-  <p>Reactの、GitHub Page公開テストです。</p>,
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+//  <p>Reactの、GitHub Page公開テストです。</p>,
   document.getElementById('root')
 );
 
