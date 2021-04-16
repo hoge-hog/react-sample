@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-sample"]=this["webpackJsonpreact-sample"]||[]).push([[0],{11:function(n,t,e){"use strict";e.r(t);e(1),e(4),e(8),e.p,e(9),e(0);(function(n){n&&n instanceof Function&&e.e(3).then(e.bind(null,12)).then((function(t){var e=t.getCLS,c=t.getFID,i=t.getFCP,s=t.getLCP,o=t.getTTFB;e(n),c(n),i(n),s(n),o(n)}))})()},8:function(n,t,e){},9:function(n,t,e){}},[[11,1,2]]]);
+//# sourceMappingURL=main.742bf84f.chunk.js.map
